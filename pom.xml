@@ -3,7 +3,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>my-app</name>
   <url>https://maven.apache.org</url>
 
@@ -11,7 +11,7 @@
     <url>https://github.com/mhashya/simple-java-maven-app.git</url> <!-- URL HTTP de clone do projeto -->
     <connection>scm:git:https://github.com/mhashya/simple-java-maven-app.git</connection> <!-- URL HTTP de clone do projeto -->
 <!--    <developerConnection>scm:git:{HTTP_URL_GIT_REPOSITORY}</developerConnection> &lt;!&ndash; URL HTTP de clone do projeto &ndash;&gt;-->
-    <tag>1.0.0</tag>
+    <tag>1.0</tag>
   </scm>
 
   <dependencies>
